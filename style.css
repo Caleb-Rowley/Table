@@ -7,6 +7,8 @@ table, td ,th {
     border-bottom-color: blue;
     border-top-color: red;
     border-left-color: blueviolet;
+    font-size: 55px;
+
 }
 th{
     color: aqua;
