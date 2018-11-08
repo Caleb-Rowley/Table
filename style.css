@@ -1,0 +1,16 @@
+table, td ,th {
+    text-align: justify;
+    table-layout: auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-right-color: aquamarine;
+    border-bottom-color: blue;
+    border-top-color: red;
+    border-left-color: blueviolet;
+}
+th{
+    color: aqua;
+}
+td{
+    color: yellow;
+}
